@@ -132,7 +132,7 @@ const TaskTable = (props) => {
 
                                 <label className='my-3' htmlFor='select'>Assign to an employee</label>
                                 <select className='mb-4' id="select" >
-                                    <option value="Employee1">Employee1</option>
+                                    
                                     <option value="Employee2">Employee2</option>
                                 </select>
                                 <div>
